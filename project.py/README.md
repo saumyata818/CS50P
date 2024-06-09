@@ -14,6 +14,9 @@ The Report Card Generator(RCG) is a Python program that allows users to input th
 - **Input Validation**: User input for marks is validated to ensure it falls within the valid range (0-100). If the user enters invalid input (non-numeric or out-of-range), they are prompted to enter the marks again.
 - **Result Determination**: The program determines the overall result (pass/fail) based on the marks entered.Here,I have considered cut-off marking to be 30.Thereore, If any subject has a score below 30, the overall result is marked as fail; otherwise, it's marked as pass.
 
+  ##HERE YOU CAN SEE THE SAMPLE OUTPUT:
+    ![OUTPUT](https://github.com/saumyata818/CS50P/blob/main/project.py/RCB.png)
+
 ## Notes:
 - Ensure that the terminal supports ANSI escape codes for colorful output.
 - This project does not require any external libraries beyond Python's standard library.
